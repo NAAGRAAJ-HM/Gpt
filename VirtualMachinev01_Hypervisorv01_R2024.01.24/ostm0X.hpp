@@ -5,7 +5,7 @@
 #define cOSTM0_IRQ_ACTIVE      1
 #define OP_TIME_METHOD_OHDS 0x01U
 #define OP_TIME_METHOD_CSTDELAY 0x00U
-#define PalAbsConstantDelay		12U
+#define PalAbsConstantDelay      12U
 
 extern uint8 aucRe1DatenString[10];
 

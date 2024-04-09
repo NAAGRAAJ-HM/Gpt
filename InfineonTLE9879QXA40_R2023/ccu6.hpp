@@ -82,7 +82,7 @@ typedef enum{
    ,  CCU6_CCPOS0_2_P13  = 2u
    ,  CCU6_CCPOS0_3_P20  = 3u
 #if(UC_SERIES == TLE987)
-  
+
    ,  CCU6_CCPOS0_BEMF   = 3u
 #endif
 }TCCU6_Pos0_Input;
@@ -92,7 +92,7 @@ typedef enum{
    ,  CCU6_CCPOS1_1_P04  = 1u
    ,  CCU6_CCPOS1_2_P14  = 2u
 #if(UC_SERIES == TLE987)
-  
+
    ,  CCU6_CCPOS1_BEMF   = 3u
 #endif
 }TCCU6_Pos1_Input;
@@ -102,7 +102,7 @@ typedef enum{
    ,  CCU6_CCPOS2_2_P12  = 2u
    ,  CCU6_CCPOS2_3_P22  = 3u
 #if(UC_SERIES == TLE987)
-  
+
    ,  CCU6_CCPOS2_BEMF   = 3u
 #endif
 }TCCU6_Pos2_Input;

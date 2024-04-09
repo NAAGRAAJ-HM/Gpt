@@ -8,7 +8,7 @@
 #define cT_STANBY4AFD           (uint16) 60//s 1 min ECU parking+stanby time for auto filling detection
 #define c_100km                 (uint32) 100
 #define c_50km                  (uint32) 50
-#define c_0km				            (uint32) 0
+#define c_0km                        (uint32) 0
 #define c_FFFFkm                (uint32) 0xFFFFFFFF
 #define c_FF9Bkm                (uint32) 0xFFFFFF9B
 
