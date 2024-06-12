@@ -9,7 +9,6 @@
 
 extern uint8 aucRe1DatenString[10];
 
-
 extern void OSTM0_FreeRunMode(void);
 extern void OSTM0_IntervalMode(void);
 extern void OSTM0_SetCompareValue(uint16);
